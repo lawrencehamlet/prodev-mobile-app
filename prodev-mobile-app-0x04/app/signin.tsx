@@ -1,5 +1,5 @@
 import { View, Text, ImageBackground, TextInput, Pressable, ScrollView } from "react-native";
-import { styles } from "@/styles/_joinstyle";
+import { styles } from "@/styles/_join";
 import { MaterialIcons } from "@expo/vector-icons";
 import { GOOGLELOGO, FACEBOOKLOGO, HEROLOGOGREEN } from "@/constants";
 import { useState } from "react";
